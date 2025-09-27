@@ -1,0 +1,13 @@
+grades=[]
+for i in range(1,4):
+grade= float(input("Enter grade"))
+Averag= sum(grades)/len(grades)
+grades.append(grade)
+  if Average >= 85:
+print= ("Excellent")
+  elif Average>= 70:
+print= ("Very Good")
+  else
+print= ("fail")
+print ("Average:" ، Average)
+
